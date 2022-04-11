@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = m.celina.bermudez@gmail.com
+	name = Celina BermudezArias
